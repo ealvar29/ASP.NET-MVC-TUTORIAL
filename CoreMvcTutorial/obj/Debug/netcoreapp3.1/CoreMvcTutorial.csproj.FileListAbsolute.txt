@@ -1,0 +1,40 @@
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.exe
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.deps.json
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.runtimeconfig.json
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.runtimeconfig.dev.json
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.dll
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.pdb
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.csprojAssemblyReference.cache
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.AssemblyInfo.cs
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\staticwebassets\CoreMvcTutorial.StaticWebAssets.Manifest.cache
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\staticwebassets\CoreMvcTutorial.StaticWebAssets.xml
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.dll
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.pdb
+C:\Users\Master\source\repos\TreeHouse\CoreMvcTutorial\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.genruntimeconfig.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.exe
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.deps.json
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.runtimeconfig.json
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.runtimeconfig.dev.json
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.dll
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.pdb
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.csprojAssemblyReference.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.AssemblyInfoInputs.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.AssemblyInfo.cs
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\staticwebassets\CoreMvcTutorial.StaticWebAssets.Manifest.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\staticwebassets\CoreMvcTutorial.StaticWebAssets.xml
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.dll
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.pdb
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.genruntimeconfig.cache
