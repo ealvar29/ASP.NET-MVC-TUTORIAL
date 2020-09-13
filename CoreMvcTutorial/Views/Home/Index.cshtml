@@ -1,0 +1,22 @@
+﻿@model CoreMvcTutorial.Models.Movie
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>@Model.Title</title>
+</head>
+<body>
+<div>
+    <span style="font-size: 18pt">Hello <b>MVC</b> World!</span>
+</div>
+<div>
+    The movie <b>@Model.Title</b> was released @Model.ReleaseDate.ToLongDateString()
+</div>
+</body>
+</html>

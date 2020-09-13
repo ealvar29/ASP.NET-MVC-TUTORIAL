@@ -38,3 +38,14 @@ C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreM
 C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.dll
 C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.pdb
 C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.genruntimeconfig.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.Views.dll
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\bin\Debug\netcoreapp3.1\CoreMvcTutorial.Views.pdb
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.RazorAssemblyInfo.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.RazorAssemblyInfo.cs
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.TagHelpers.input.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.TagHelpers.output.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.RazorCoreGenerate.cache
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.RazorTargetAssemblyInfo.cs
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.Views.pdb
+C:\Users\Master\source\GitKraken\ASP.NET MVC TUTORIAL\ASP.NET MVC TUTORIAL\CoreMvcTutorial\obj\Debug\netcoreapp3.1\CoreMvcTutorial.csproj.CopyComplete
